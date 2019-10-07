@@ -1,2 +1,2 @@
-# Github_AlbertIba-ez_2B
+# Github_AlbertIbanez_2B
 Clase GitHub Dani Gómez
