@@ -1,2 +1,2 @@
 # Github_AlbertIbanez_2B
-Clase GitHub Dani Gómez desde web
+Clase GitHub Dani Gómez desde webb
